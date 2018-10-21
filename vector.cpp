@@ -2,8 +2,7 @@
 #include<vector>
 using namespace std;
 //int a[26];
-int main()
-{
+int main() {
 int t;
 cin>>t;
 while(t--)
@@ -45,7 +44,6 @@ cout<<endl;
 }
 
 cout<<endl;
-//cout<<s.size();
 
 }
 return 0;
